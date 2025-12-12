@@ -1,0 +1,13 @@
+pytesseract
+easyocr
+opencv-python
+numpy
+pandas
+pdf2image
+sentence-transformers
+scikit-learn
+torch
+torchvision
+torchaudio
+ipython
+google-colab
